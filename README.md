@@ -27,7 +27,7 @@ Happy coding! 🖥️
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Viveksi-Taksali-27&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viveksi-Taksali-27&layout=compact&theme=tokyonight)
 
-[![Vini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viveksi-Taksali-27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Viveksi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Viveksi-Taksali-27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Viveksi-Taksali-27i&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Viveksi-Taksali-27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
